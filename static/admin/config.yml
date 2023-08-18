@@ -3,6 +3,7 @@ backend:
   branch: develop
 
 locale: "ko"
+site_url: https://joyful-sunshine-33597a.netlify.app
 
 media_folder: static/img
 public_folder: /img
